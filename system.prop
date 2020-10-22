@@ -1,0 +1,11 @@
+#Netflix custom property
+ro.netflix.bsp_rev=Q6150-17263-1
+
+# Set stock DPI
+ro.sf.lcd_density=440
+
+# USB debugging
+persist.sys.usb.config=mtp,adb
+ro.adb.secure=0
+ro.secure=0
+ro.debuggable=1
